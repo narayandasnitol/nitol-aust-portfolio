@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/nitol-aust-portfolio/static/css/main.8d4182d2.chunk.css",
-    "main.js": "/nitol-aust-portfolio/static/js/main.5423ab8e.chunk.js",
-    "main.js.map": "/nitol-aust-portfolio/static/js/main.5423ab8e.chunk.js.map",
-    "runtime-main.js": "/nitol-aust-portfolio/static/js/runtime-main.3f28d99b.js",
-    "runtime-main.js.map": "/nitol-aust-portfolio/static/js/runtime-main.3f28d99b.js.map",
+    "main.css": "/nitol-aust-portfolio/static/css/main.3b92bfca.chunk.css",
+    "main.js": "/nitol-aust-portfolio/static/js/main.88956da0.chunk.js",
+    "main.js.map": "/nitol-aust-portfolio/static/js/main.88956da0.chunk.js.map",
+    "runtime-main.js": "/nitol-aust-portfolio/static/js/runtime-main.9facf21a.js",
+    "runtime-main.js.map": "/nitol-aust-portfolio/static/js/runtime-main.9facf21a.js.map",
     "static/js/2.e749d436.chunk.js": "/nitol-aust-portfolio/static/js/2.e749d436.chunk.js",
     "static/js/2.e749d436.chunk.js.map": "/nitol-aust-portfolio/static/js/2.e749d436.chunk.js.map",
-    "static/css/3.3a26ebde.chunk.css": "/nitol-aust-portfolio/static/css/3.3a26ebde.chunk.css",
+    "static/css/3.00373544.chunk.css": "/nitol-aust-portfolio/static/css/3.00373544.chunk.css",
     "static/js/3.1e39b1a0.chunk.js": "/nitol-aust-portfolio/static/js/3.1e39b1a0.chunk.js",
     "static/js/3.1e39b1a0.chunk.js.map": "/nitol-aust-portfolio/static/js/3.1e39b1a0.chunk.js.map",
-    "static/css/4.ee2a0142.chunk.css": "/nitol-aust-portfolio/static/css/4.ee2a0142.chunk.css",
-    "static/js/4.a3a6f920.chunk.js": "/nitol-aust-portfolio/static/js/4.a3a6f920.chunk.js",
-    "static/js/4.a3a6f920.chunk.js.map": "/nitol-aust-portfolio/static/js/4.a3a6f920.chunk.js.map",
+    "static/css/4.a922a401.chunk.css": "/nitol-aust-portfolio/static/css/4.a922a401.chunk.css",
+    "static/js/4.b55c5fb2.chunk.js": "/nitol-aust-portfolio/static/js/4.b55c5fb2.chunk.js",
+    "static/js/4.b55c5fb2.chunk.js.map": "/nitol-aust-portfolio/static/js/4.b55c5fb2.chunk.js.map",
     "index.html": "/nitol-aust-portfolio/index.html",
-    "precache-manifest.a4e8197c53fad814baad62dc27e7d8dd.js": "/nitol-aust-portfolio/precache-manifest.a4e8197c53fad814baad62dc27e7d8dd.js",
+    "precache-manifest.00607bbf30e2eea97b2448151e98e659.js": "/nitol-aust-portfolio/precache-manifest.00607bbf30e2eea97b2448151e98e659.js",
     "service-worker.js": "/nitol-aust-portfolio/service-worker.js",
-    "static/css/3.3a26ebde.chunk.css.map": "/nitol-aust-portfolio/static/css/3.3a26ebde.chunk.css.map",
-    "static/css/4.ee2a0142.chunk.css.map": "/nitol-aust-portfolio/static/css/4.ee2a0142.chunk.css.map",
-    "static/css/main.8d4182d2.chunk.css.map": "/nitol-aust-portfolio/static/css/main.8d4182d2.chunk.css.map",
+    "static/css/3.00373544.chunk.css.map": "/nitol-aust-portfolio/static/css/3.00373544.chunk.css.map",
+    "static/css/4.a922a401.chunk.css.map": "/nitol-aust-portfolio/static/css/4.a922a401.chunk.css.map",
+    "static/css/main.3b92bfca.chunk.css.map": "/nitol-aust-portfolio/static/css/main.3b92bfca.chunk.css.map",
     "static/js/2.e749d436.chunk.js.LICENSE.txt": "/nitol-aust-portfolio/static/js/2.e749d436.chunk.js.LICENSE.txt",
     "static/media/index.css": "/nitol-aust-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/AustBus.png": "/nitol-aust-portfolio/static/media/AustBus.4738f523.png",
@@ -35,12 +35,12 @@
     "static/media/developerActivity.svg": "/nitol-aust-portfolio/static/media/developerActivity.59389695.svg",
     "static/media/manOnTable.svg": "/nitol-aust-portfolio/static/media/manOnTable.52be3144.svg",
     "static/media/skill.svg": "/nitol-aust-portfolio/static/media/skill.34409398.svg",
-    "static/media/TalkCard.css": "/nitol-aust-portfolio/static/media/talksCardBack.39eff4a9.svg"
+    "static/media/TalkCard.css": "/nitol-aust-portfolio/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f28d99b.js",
+    "static/js/runtime-main.9facf21a.js",
     "static/js/2.e749d436.chunk.js",
-    "static/css/main.8d4182d2.chunk.css",
-    "static/js/main.5423ab8e.chunk.js"
+    "static/css/main.3b92bfca.chunk.css",
+    "static/js/main.88956da0.chunk.js"
   ]
 }
