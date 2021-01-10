@@ -21,7 +21,7 @@
 }
 
 .blog-subtitle {
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 .blog-main-div > * {
   flex: 1;

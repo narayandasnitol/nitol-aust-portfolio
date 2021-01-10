@@ -116,13 +116,7 @@ const educationInfo = {
       subHeader: 'B.Sc in Computer Science and Engineering',
       duration: 'November 2015 - January 2020',
       desc: 'CGPA : 3.23 / 4.00',
-      descBullets: [
-        'Member - AUST CSE Society',
-        'Member - AUST Programming Club',
-        'Member - AUST IDC',
-        'Member – AUST Photography Club',
-        'Programming Contestant – Intra AUST Programming Contest (2016 – 2018)'
-      ],
+      
     },
     {
       schoolName: 'Jalalabad Cantonment Public School and College (JCPSC)',
@@ -131,6 +125,7 @@ const educationInfo = {
       duration: 'July 2012 - June 2014',
       desc:
         'GPA : 5.00 / 5.00',
+      
     },
     {
       schoolName: 'Border Guard Public School and College (BGPSC)',
@@ -223,6 +218,19 @@ const workExperiences = {
     ]
     },
     {
+      role: 'YTube Downloader',
+      company: 'Android',
+      companylogo: require('./assets/images/DownloadY.jpg'),
+      date: 'June 2017 – September 2017',
+      desc:
+        'This is an Android App which can download youtube video directly on local device.',
+      descBullets: [
+        'File storage',
+        'Downloader',
+        'Material Design UI.'
+    ]
+    },
+    {
       role: 'BUS Ticket Reservation Manager',
       company: 'JAVA Swing',
       companylogo: require('./assets/images/AustBus.png'),
@@ -260,13 +268,13 @@ const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
   githubUserName: 'narayandasnitol', // Change to your github username to view your profile in Contact Section.
   showGithubProfile: 'true', // Set true or false to show Contact profile using Github, defaults to true
-  display: false, // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 // projects source code you have worked on
 
 const bigProjects = {
-  title: 'Project Source Code',
+  title: 'Github Repository',
   subtitle: 'Source Code of my projects are given below: ',
   projects: [
     {
@@ -346,6 +354,12 @@ const blogSection = {
         '',
     },
     {
+      url: 'https://github.com/narayandasnitol/YTubeDownloader',
+      title: 'YTube Downloader',
+      description:
+        '',
+    },
+    {
       url: 'https://github.com/narayandasnitol/Bus-Ticket-Reservation-Manager',
       title: 'BUS Ticket Reservation Manager',
       description:
@@ -371,20 +385,20 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  title: emoji('Podcast 🎙️'),
-  subtitle: 'I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY',
+  title: emoji('Listen it 🎙️'),
+  subtitle: 'The most common way people give up their power is by thinking they don’t have any.',
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    '',
+    'https://anchor.fm/nitol-das-neel/embed/episodes/ep-eoppqh'
   ],
-  display: false, // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji('Contact Me ☎️'),
   subtitle:
-    'House 28, Road 22, Block K, Banani, Dhaka 1213',
+    'Email : nitol.aust.cse@gmail.com  || Phone : +8801753458871, +8801645332843',
   number: '+8801753458871',
   emailAddress: 'nitol.aust.cse@gmail.com',
 };
@@ -392,8 +406,8 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: 'nitoldasneel', //Replace "twitter" with your twitter username without @
-  display: false, // Set true to display this section, defaults to false
+  userName: 'TechCrunch', //Replace "twitter" with your twitter username without @
+  display: true, // Set true to display this section, defaults to false
 };
 
 export {

@@ -49,11 +49,6 @@ function Header() {
               <a href="#education">Education</a>
             </li>
           )}
-          {viewOpenSource && (
-            <li>
-              <a href="#opensource">Open Source</a>
-            </li>
-          )}
           {viewAchievement && (
             <li>
               <a href="#achievements">Achievements</a>
@@ -64,9 +59,9 @@ function Header() {
               <a href="#experience">Projects</a>
             </li>
           )}
-          {viewBlog && (
+          {viewOpenSource && (
             <li>
-              <a href="#blogs">Source Code</a>
+              <a href="#opensource">Github</a>
             </li>
           )}
           {viewTalks && (
