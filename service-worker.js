@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nitol-aust-portfolio/precache-manifest.471c7b6bea59cd692d793a7dc5d08ef0.js"
+  "/nitol-aust-portfolio/precache-manifest.24415bf1e13325bac3b697c3f6d9c63f.js"
 );
 
 self.addEventListener('message', (event) => {

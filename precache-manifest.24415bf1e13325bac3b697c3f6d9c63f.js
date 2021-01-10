@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b3ea395577ea2444ce79d6012b58558",
+    "revision": "ee5814099556e209f69d65f1965f08e3",
     "url": "/nitol-aust-portfolio/index.html"
   },
   {
-    "revision": "1c39018d4b2dcadf4fc6",
-    "url": "/nitol-aust-portfolio/static/css/3.00373544.chunk.css"
+    "revision": "2f579e10e2c92bf5a6d7",
+    "url": "/nitol-aust-portfolio/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "972591653e63e403f358",
-    "url": "/nitol-aust-portfolio/static/css/4.a922a401.chunk.css"
+    "revision": "d7fe11a0271dbecf36d3",
+    "url": "/nitol-aust-portfolio/static/css/4.ee2a0142.chunk.css"
   },
   {
-    "revision": "4fad23d7e7d9c6b4a6fc",
-    "url": "/nitol-aust-portfolio/static/css/main.f049d993.chunk.css"
+    "revision": "b454e1d4f27062226f3b",
+    "url": "/nitol-aust-portfolio/static/css/main.8e9ba609.chunk.css"
   },
   {
     "revision": "09fb1754b849f716335f",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nitol-aust-portfolio/static/js/2.582ab948.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c39018d4b2dcadf4fc6",
+    "revision": "2f579e10e2c92bf5a6d7",
     "url": "/nitol-aust-portfolio/static/js/3.dd6910c2.chunk.js"
   },
   {
-    "revision": "972591653e63e403f358",
-    "url": "/nitol-aust-portfolio/static/js/4.425309cf.chunk.js"
+    "revision": "d7fe11a0271dbecf36d3",
+    "url": "/nitol-aust-portfolio/static/js/4.f63227c7.chunk.js"
   },
   {
-    "revision": "4fad23d7e7d9c6b4a6fc",
-    "url": "/nitol-aust-portfolio/static/js/main.c32564a7.chunk.js"
+    "revision": "b454e1d4f27062226f3b",
+    "url": "/nitol-aust-portfolio/static/js/main.5e64e86e.chunk.js"
   },
   {
-    "revision": "790d88825defa4d3d8b9",
-    "url": "/nitol-aust-portfolio/static/js/runtime-main.e6616333.js"
+    "revision": "2367a71cd187342afa64",
+    "url": "/nitol-aust-portfolio/static/js/runtime-main.649dc219.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -108,7 +108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nitol-aust-portfolio/static/media/skill.34409398.svg"
   },
   {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/nitol-aust-portfolio/static/media/talksCardBack.13780cdd.svg"
+    "revision": "39eff4a91b01e00a32cb78f3797eec88",
+    "url": "/nitol-aust-portfolio/static/media/talksCardBack.39eff4a9.svg"
   }
 ]);
