@@ -9,27 +9,25 @@ const illustration = {
 };
 
 const greeting = {
-  username: 'Saad Pasta',
-  title: "Hi all, I'm Saad",
+  username: 'Nitol\'s Portfolio',
+  title: "I'm Narayan Das Nitol",
   subTitle: emoji(
-    'A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.'
+    'Computer Science graduate passionate about software engineering and web development. Highly-capable leader, having led multiple projects to completion. Proficient in a range of modern technologies including Python, Java, C++ and Problem Solving.'
   ),
   resumeLink:
-    'https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing',
+    'https://drive.google.com/file/d/1M7A7HmQrTKIJ0UBJU202RCwXxAxrJH04/view?usp=sharing',
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: 'https://github.com/saadpasta',
-  linkedin: 'https://www.linkedin.com/in/saadpasta/',
-  gmail: 'saadpasta70@gmail.com',
-  gitlab: 'https://gitlab.com/saadpasta',
-  facebook: 'https://www.facebook.com/saad.pasta7',
-  medium: 'https://medium.com/@saadpasta',
-  stackoverflow: 'https://stackoverflow.com/users/10422806/saad-pasta',
-  // Instagram and Twitter are also supported in the links!
+  github: 'https://github.com/narayandasnitol/',
+  linkedin: 'https://www.linkedin.com/in/narayandasnitol/',
+  gmail: 'nitol.aust.cse@gmail.com',
+  facebook: 'https://www.facebook.com/nitoldasneel',
+  stackoverflow: 'https://stackoverflow.com/users/7060019/nitol-das-neel',
+
   display: true, // Set true to display this section, defaults to false
 };
 
@@ -37,19 +35,18 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: 'What I do',
-  subTitle: 'CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  subTitle: 'CRAZY PROGRAMMER WHO WANTS TO EXPLORE EVERY TECH STACK',
   skills: [
     emoji(
-      '⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications'
+      '⚡ Academic experience in Mobile App Development, Web Design, Web Development and Database Management System.'
     ),
-    emoji('⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks'),
+    emoji('⚡ Completed more than 10+ academic projects.'),
     emoji(
-      '⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean'
+      '⚡ Self-motivated individual with exceptional communication and interpersonal skills.'
     ),
   ],
 
-  /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
+  /*icon credit : https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
@@ -61,36 +58,28 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-css3-alt',
     },
     {
-      skillName: 'sass',
-      fontAwesomeClassname: 'fab fa-sass',
-    },
-    {
       skillName: 'JavaScript',
       fontAwesomeClassname: 'fab fa-js',
     },
     {
-      skillName: 'reactjs',
-      fontAwesomeClassname: 'fab fa-react',
-    },
-    {
-      skillName: 'nodejs',
-      fontAwesomeClassname: 'fab fa-node',
-    },
-    {
-      skillName: 'swift',
-      fontAwesomeClassname: 'fab fa-swift',
-    },
-    {
-      skillName: 'npm',
-      fontAwesomeClassname: 'fab fa-npm',
+      skillName: 'bootstrap',
+      fontAwesomeClassname: 'fab fa-bootstrap',
     },
     {
       skillName: 'sql-database',
       fontAwesomeClassname: 'fas fa-database',
     },
     {
-      skillName: 'aws',
-      fontAwesomeClassname: 'fab fa-aws',
+      skillName: 'reactjs',
+      fontAwesomeClassname: 'fab fa-react',
+    },
+    {
+      skillName: 'npm',
+      fontAwesomeClassname: 'fab fa-npm',
+    },
+    {
+      skillName: 'git',
+      fontAwesomeClassname: 'fab fa-git',
     },
     {
       skillName: 'firebase',
@@ -101,9 +90,17 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-python',
     },
     {
-      skillName: 'docker',
-      fontAwesomeClassname: 'fab fa-docker',
+      skillName: 'java',
+      fontAwesomeClassname: 'fab fa-java',
     },
+    {
+      skillName: 'android development',
+      fontAwesomeClassname: 'fab fa-android',
+    },
+    {
+      skillName: 'web development',
+      fontAwesomeClassname: 'fas fa-file-code',
+    }
   ],
   display: true, // Set false to hide this section, defaults to true
 };
@@ -114,25 +111,35 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: 'Harvard University',
-      logo: require('./assets/images/harvardLogo.png'),
-      subHeader: 'Master of Science in Computer Science',
-      duration: 'September 2017 - April 2019',
-      desc: 'Participated in the research of XXX and published 3 papers.',
+      schoolName: 'Ahsanullah University of Science and Technology (AUST)',
+      logo: require('./assets/images/LogoAust.jpg'),
+      subHeader: 'B.Sc in Computer Science and Engineering',
+      duration: 'November 2015 - January 2020',
+      desc: 'CGPA : 3.23 / 4.00',
       descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        'Member - AUST CSE Society',
+        'Member - AUST Programming Club',
+        'Member - AUST IDC',
+        'Member – AUST Photography Club',
+        'Programming Contestant – Intra AUST Programming Contest (2016 – 2018)'
       ],
     },
     {
-      schoolName: 'Stanford University',
-      logo: require('./assets/images/stanfordLogo.png'),
-      subHeader: 'Bachelor of Science in Computer Science',
-      duration: 'September 2013 - April 2017',
+      schoolName: 'Jalalabad Cantonment Public School and College (JCPSC)',
+      logo: require('./assets/images/LogoJcpsc.jpg'),
+      subHeader: 'HSC - Science',
+      duration: 'July 2012 - June 2014',
       desc:
-        'Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...',
-      descBullets: ['Lorem ipsum dolor sit amet, consectetur adipiscing elit'],
+        'GPA : 5.00 / 5.00',
     },
+    {
+      schoolName: 'Border Guard Public School and College (BGPSC)',
+      logo: require('./assets/images/LogoBgpsc.jpg'),
+      subHeader: 'SCC - Science',
+      duration: 'January 2003 - June 2012',
+      desc:
+        'GPA : 5.00 / 5.00',
+    }
   ],
 };
 
@@ -142,53 +149,106 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: 'Frontend/Design', //Insert stack or technology you have experience in
+      Stack: 'Android Development', //Insert stack or technology you have experience in
       progressPercentage: '90%', //Insert relative proficiency in percentage
     },
     {
-      Stack: 'Backend',
+      Stack: 'Web Design and Development', 
+      progressPercentage: '80%',
+    },
+    {
+      Stack: 'Database',
       progressPercentage: '70%',
     },
     {
-      Stack: 'Programming',
+      Stack: 'Object Oriented Programming',
+      progressPercentage: '70%',
+    },
+    {
+      Stack: 'Problem Solving',
+      progressPercentage: '70%',
+    },
+    {
+      Stack: 'UI Design',
       progressPercentage: '60%',
     },
   ],
   displayCodersrank: false, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
-// Work experience section
+// Project section
 
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: 'Software Engineer',
-      company: 'Facebook',
-      companylogo: require('./assets/images/facebookLogo.png'),
-      date: 'June 2018 – Present',
+      role: 'Duck Shooter - Game',
+      company: 'Java',
+      companylogo: require('./assets/images/Duck.png'),
+      date: 'January 2017 - April 2017',
       desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        'This is a 2D platform game created with Java. You can run this with Eclipse IDE.',
       descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-      ],
+        'You can set timer manually how long you want to play.',
+        'You can shoot ducks, birds and also a mega duck to collect bonus point.',
+        'After killing a bird, my dog Tommy will catch that bird to help you.',
+        'You can also see your current score and high score while playing.'
+      ]
     },
     {
-      role: 'Front-End Developer',
-      company: 'Quora',
-      companylogo: require('./assets/images/quoraLogo.png'),
-      date: 'May 2017 – May 2018',
+      role: 'AUST Class Manager',
+      company: 'Android',
+      companylogo: require('./assets/images/AustClassManager.png'),
+      date: 'June 2017 – September 2017',
       desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        'This is an Android App which can do basic tasks to help a student studying in AUST.',
+      descBullets: [
+          'You can see class routine, official notice and results.',
+          'It can calculate CGPA.',
+          'It also can calculate quiz final marks that will directly add with final marks of the semester.',
+          'It has a notification system where you can set the upcoming quiz date. Before the quiz date, it will notify you through alarm.'
+      ]
     },
     {
-      role: 'Software Engineer Intern',
-      company: 'Airbnb',
-      companylogo: require('./assets/images/airbnbLogo.png'),
-      date: 'Jan 2015 – Sep 2015',
+      role: 'CGPA Calculator',
+      company: 'Android',
+      companylogo: require('./assets/images/AustCgpa.png'),
+      date: 'June 2017 – September 2017',
       desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        'This is an Android App which can calculate undergrad CGPA.',
+      descBullets: [
+        'Calculate CGPA.',
+        'Instant display the input.',
+        'Material Design UI.'
+    ]
+    },
+    {
+      role: 'BUS Ticket Reservation Manager',
+      company: 'JAVA Swing',
+      companylogo: require('./assets/images/AustBus.png'),
+      date: 'December 2017 – March 2018',
+      desc:
+        'This is a JAVA Swing project using MYSQL. You can book your upcoming bus ticket on it.',
+      descBullets: [
+        'User Login / Registration.',
+        'User Profile Management.',
+        'Ticket booking system.',
+        'Ticket Information.'
+    ]
+    },
+    {
+      role: 'Car Rent & Sell',
+      company: 'ASP.NET',
+      companylogo: require('./assets/images/AustCar.png'),
+      date: 'May 2018 – September 2018',
+      desc:
+        'This is an ASP.NET project. The owner of this site can sell and rent cars in Bangladesh',
+      descBullets: [
+        'User Login / Registration.',
+        'User Profile Management.',
+        'Car Gallery with price.',
+        'Time Schedule.'
+      ]
     },
   ],
 };
@@ -198,111 +258,104 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: 'saadpasta', // Change to your github username to view your profile in Contact Section.
+  githubUserName: 'narayandasnitol', // Change to your github username to view your profile in Contact Section.
   showGithubProfile: 'true', // Set true or false to show Contact profile using Github, defaults to true
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
-// Some big projects you have worked on
+// projects source code you have worked on
 
 const bigProjects = {
-  title: 'Big Projects',
-  subtitle: 'SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH',
+  title: 'Project Source Code',
+  subtitle: 'Source Code of my projects are given below: ',
   projects: [
     {
-      image: require('./assets/images/saayaHealthLogo.webp'),
-      link: 'http://saayahealth.com/',
+      image: require('./assets/images/Duck.png'),
+      link: 'https://github.com/narayandasnitol/Shoot-The-Duck',
     },
     {
-      image: require('./assets/images/nextuLogo.webp'),
-      link: 'http://nextu.se/',
+      image: require('./assets/images/AustClassManager1.png'),
+      link: 'https://github.com/narayandasnitol/Aust-Class-Manager',
+    },
+    {
+      image: require('./assets/images/AustCgpa1.png'),
+      link: 'https://github.com/narayandasnitol/CGPA-Calculator',
+    },
+    {
+      image: require('./assets/images/AustBus.png'),
+      link: 'https://github.com/narayandasnitol/Bus-Ticket-Reservation-Manager',
+    },
+    {
+      image: require('./assets/images/AustCar.png'),
+      link: 'https://github.com/narayandasnitol/Car-Rent-Sell',
     },
   ],
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
-// Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji('Achievements And Certifications 🏆 '),
+  title: emoji('Projects'),
   subtitle:
-    'Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !',
+    '',
 
   achievementsCards: [
     {
-      title: 'Google Code-In Finalist',
+      title: '',
       subtitle:
-        'First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.',
-      image: require('./assets/images/codeInLogo.webp'),
+        '',
+      // image: require('./assets/images/xyz.jpg'),
       footerLink: [
         {
-          name: 'Certification',
+          name: '',
           url:
-            'https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing',
-        },
-        {
-          name: 'Award Letter',
-          url:
-            'https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing',
-        },
-        {
-          name: 'Google Code-in Blog',
-          url:
-            'https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html',
-        },
+            '',
+        }
       ],
-    },
-    {
-      title: 'Google Assistant Action',
-      subtitle:
-        'Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.',
-      image: require('./assets/images/googleAssistantLogo.webp'),
-      footerLink: [
-        {
-          name: 'View Google Assistant Action',
-          url:
-            'https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en',
-        },
-      ],
-    },
-
-    {
-      title: 'PWA Web App Developer',
-      subtitle: 'Completed Certifcation from SMIT for PWA Web App Development',
-      image: require('./assets/images/pwaLogo.webp'),
-      footerLink: [
-        { name: 'Certification', url: '' },
-        {
-          name: 'Final Project',
-          url: 'https://pakistan-olx-1.firebaseapp.com/',
-        },
-      ],
-    },
+    }
   ],
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
-// Blogs Section
+// Source Code Section
 
 const blogSection = {
-  title: 'Blogs',
+  title: 'Project Source Code',
   subtitle:
-    'With Love for Developing cool stuff, I love to write and teach others what I have learnt.',
+    '',
 
   blogs: [
     {
       url:
-        'https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae',
-      title: 'Win a Google Assistant Tshirt and $200 in Google Cloud Credits',
+        'https://github.com/narayandasnitol/Shoot-The-Duck',
+      title: 'Duck Shooter - Game',
       description:
-        'Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?',
+        '',
     },
     {
-      url: 'https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e',
-      title: 'Why REACT is The Best?',
+      url: 'https://github.com/narayandasnitol/Aust-Class-Manager',
+      title: 'AUST Class Manager',
       description:
-        'React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies.',
+        '',
+    },
+    {
+      url: 'https://github.com/narayandasnitol/CGPA-Calculator',
+      title: 'CGPA Calculator',
+      description:
+        '',
+    },
+    {
+      url: 'https://github.com/narayandasnitol/Bus-Ticket-Reservation-Manager',
+      title: 'BUS Ticket Reservation Manager',
+      description:
+        '',
+    },
+    {
+      url: 'https://github.com/narayandasnitol/Car-Rent-Sell',
+      title: 'Car Rent & Sell',
+      description:
+        '',
     },
   ],
   display: true, // Set false to hide this section, defaults to true
@@ -311,20 +364,8 @@ const blogSection = {
 // Talks Sections
 
 const talkSection = {
-  title: 'TALKS',
-  subtitle: emoji(
-    'I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅'
-  ),
 
-  talks: [
-    {
-      title: 'Build Actions For Google Assistant',
-      subtitle: 'Codelab at GDG DevFest Karachi 2019',
-      slides_url: 'https://bit.ly/saadpasta-slides',
-      event_url: 'https://www.facebook.com/events/2339906106275053/',
-    },
-  ],
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -335,24 +376,24 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    'https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo',
+    '',
   ],
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji('Contact Me ☎️'),
   subtitle:
-    'Discuss a project or just want to say hi? My Inbox is open for all.',
-  number: '+92-3243454077',
-  emailAddress: 'saadpasta70@gmail.com',
+    'House 28, Road 22, Block K, Banani, Dhaka 1213',
+  number: '+8801753458871',
+  emailAddress: 'nitol.aust.cse@gmail.com',
 };
 
 // Twitter Section
 
 const twitterDetails = {
-  userName: 'twitter', //Replace "twitter" with your twitter username without @
-  display: true, // Set true to display this section, defaults to false
+  userName: 'nitoldasneel', //Replace "twitter" with your twitter username without @
+  display: false, // Set true to display this section, defaults to false
 };
 
 export {
