@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "525fba79fd4647b47163e225b56910e1",
+    "revision": "6fd53f4da083a6461c97506ad1cfdea7",
     "url": "/nitol-aust-portfolio/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nitol-aust-portfolio/static/css/4.ee2a0142.chunk.css"
   },
   {
-    "revision": "1aa3483c9f8949700e27",
-    "url": "/nitol-aust-portfolio/static/css/main.8e9ba609.chunk.css"
+    "revision": "b49f3290cb9fb27a8a1a",
+    "url": "/nitol-aust-portfolio/static/css/main.664079c1.chunk.css"
   },
   {
     "revision": "09fb1754b849f716335f",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nitol-aust-portfolio/static/js/4.f63227c7.chunk.js"
   },
   {
-    "revision": "1aa3483c9f8949700e27",
-    "url": "/nitol-aust-portfolio/static/js/main.1ad214c8.chunk.js"
+    "revision": "b49f3290cb9fb27a8a1a",
+    "url": "/nitol-aust-portfolio/static/js/main.8627d58c.chunk.js"
   },
   {
     "revision": "2367a71cd187342afa64",
