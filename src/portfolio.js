@@ -120,7 +120,9 @@ const educationInfo = {
       subHeader: 'B.Sc in Computer Science and Engineering',
       duration: 'November 2015 - January 2020',
       desc: 'CGPA : 3.23 / 4.00',
-      
+      descBullets: [
+        'Thesis : Decision Tree Induction in Heart Disease Prediction'
+      ],
     },
     {
       schoolName: 'Jalalabad Cantonment Public School and College (JCPSC)',
@@ -128,8 +130,10 @@ const educationInfo = {
       subHeader: 'HSC - Science',
       duration: 'July 2012 - June 2014',
       desc:
-        'GPA : 5.00 / 5.00',
-      
+        'GPA : 5.00 / 5.00 (Golden A+)',
+        descBullets: [
+          'Government Scholarship',
+        ],
     },
     {
       schoolName: 'Border Guard Public School and College (BGPSC)',
@@ -137,7 +141,10 @@ const educationInfo = {
       subHeader: 'SCC - Science',
       duration: 'January 2003 - June 2012',
       desc:
-        'GPA : 5.00 / 5.00',
+        'GPA : 5.00 / 5.00 (Golden A+)',
+        descBullets: [
+          'Government Scholarship on class 5 and 8',
+        ],
     }
   ],
 };
