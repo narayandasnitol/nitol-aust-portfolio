@@ -32,8 +32,7 @@ export default function Profile() {
           bio
           isHireable
           avatarUrl
-          location
-          
+          location    
         }
     }
       `,

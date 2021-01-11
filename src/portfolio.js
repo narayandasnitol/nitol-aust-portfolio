@@ -10,9 +10,9 @@ const illustration = {
 
 const greeting = {
   username: 'Nitol\'s Portfolio',
-  title: "I'm Narayan Das Nitol",
+  title: "Hi, I'm Nitol",
   subTitle: emoji(
-    'Computer Science graduate passionate about software engineering and web development. Highly-capable leader, having led multiple projects to completion. Proficient in a range of modern technologies including Python, Java, C++ and Problem Solving.'
+    'A highly driven individual looking for a challenging position in an organization specializing in tech which will be the impetus to my professional and personal prosperity and will play to my strengths.'
   ),
   resumeLink:
     'https://drive.google.com/file/d/1M7A7HmQrTKIJ0UBJU202RCwXxAxrJH04/view?usp=sharing',
@@ -34,8 +34,8 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: 'What I do',
-  subTitle: 'CRAZY PROGRAMMER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  title: 'What I do 💻',
+  subTitle: 'CRAZY PROGRAMMER WHO WANTS TO EXPLORE EVERY TECH STACK 🚀',
   skills: [
     emoji(
       '⚡ Academic experience in Mobile App Development, Web Design, Web Development and Database Management System.'
@@ -64,6 +64,10 @@ const skillsSection = {
     {
       skillName: 'bootstrap',
       fontAwesomeClassname: 'fab fa-bootstrap',
+    },
+    {
+      skillName: 'bootstrap',
+      fontAwesomeClassname: 'fab fa-php',
     },
     {
       skillName: 'sql-database',
@@ -152,11 +156,11 @@ const techStack = {
       progressPercentage: '80%',
     },
     {
-      Stack: 'Database',
+      Stack: 'Object Oriented Programming',
       progressPercentage: '70%',
     },
     {
-      Stack: 'Object Oriented Programming',
+      Stack: 'Database Management System',
       progressPercentage: '70%',
     },
     {
@@ -274,7 +278,7 @@ const openSource = {
 // projects source code you have worked on
 
 const bigProjects = {
-  title: 'Github Repository',
+  title: 'Github',
   subtitle: 'Source Code of my projects are given below: ',
   projects: [
     {
@@ -329,7 +333,7 @@ const achievementSection = {
 // Source Code Section
 
 const blogSection = {
-  title: 'Project Source Code',
+  title: 'Project Source Code 🏴󠁭󠁣󠁳󠁯󠁿',
   subtitle:
     '',
 
@@ -385,12 +389,13 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  title: emoji('Listen it 🎙️'),
+  title: emoji('Listen 🎙️'),
   subtitle: 'The most common way people give up their power is by thinking they don’t have any.',
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    'https://anchor.fm/nitol-das-neel/embed/episodes/ep-eoppqh'
+    'https://anchor.fm/nitol-das-neel/embed/episodes/ep-eoppqh',
+    'https://anchor.fm/nitol-das-neel/embed/episodes/Life-eoqe1j'
   ],
   display: true, // Set false to hide this section, defaults to true
 };
@@ -398,7 +403,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji('Contact Me ☎️'),
   subtitle:
-    'Email : nitol.aust.cse@gmail.com  || Phone : +8801753458871, +8801645332843',
+    '📧 nitol.aust.cse@gmail.com  ||  📞 +8801753458871',
   number: '+8801753458871',
   emailAddress: 'nitol.aust.cse@gmail.com',
 };
@@ -406,7 +411,7 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: 'TechCrunch', //Replace "twitter" with your twitter username without @
+  userName: 'ProthomAlo', //Replace "twitter" with your twitter username without @
   display: true, // Set true to display this section, defaults to false
 };
 
