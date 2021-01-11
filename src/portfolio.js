@@ -143,7 +143,7 @@ const educationInfo = {
       desc:
         'GPA : 5.00 / 5.00 (Golden A+)',
         descBullets: [
-          'Government Scholarship on class 5 and 8',
+          'Government Scholarship',
         ],
     }
   ],
@@ -340,50 +340,33 @@ const achievementSection = {
 // Source Code Section
 
 const blogSection = {
-  title: 'Project Source Code 🏴󠁭󠁣󠁳󠁯󠁿',
+  title: 'Blogs 📰',
   subtitle:
-    '',
+    'Some cool blogs that i like most and follow always',
 
   blogs: [
     {
       url:
-        'https://github.com/narayandasnitol/Shoot-The-Duck',
-      title: 'Duck Shooter - Game',
+        'https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/',
+      title: 'The Good and the Bad of ReactJS and React Native',
       description:
-        '',
+        'ReactJS and React Native are the new technologies for web and mobile development introduced by Facebook',
     },
     {
-      url: 'https://github.com/narayandasnitol/Aust-Class-Manager',
-      title: 'AUST Class Manager',
+      url: 'https://www.synopsys.com/blogs/software-security/top-4-software-development-methodologies/',
+      title: 'Software Integrity Blog',
       description:
-        '',
+        'How do the top software development methodologies (waterfall, rapid application, agile, and DevOps) work? And which method is best for your project?',
     },
     {
-      url: 'https://github.com/narayandasnitol/CGPA-Calculator',
-      title: 'CGPA Calculator',
+      url: 'https://www.webfx.com/blog/web-design/mobile-friendly-checker/',
+      title: 'Mobile-Friendly Checker | Check Your Site’s Mobile Score Now',
       description:
-        '',
-    },
-    {
-      url: 'https://github.com/narayandasnitol/YTubeDownloader',
-      title: 'YTube Downloader',
-      description:
-        '',
-    },
-    {
-      url: 'https://github.com/narayandasnitol/Bus-Ticket-Reservation-Manager',
-      title: 'BUS Ticket Reservation Manager',
-      description:
-        '',
-    },
-    {
-      url: 'https://github.com/narayandasnitol/Car-Rent-Sell',
-      title: 'Car Rent & Sell',
-      description:
-        '',
+        'Is your website mobile-friendly? If this isn’t a question you’ve asked yourself yet, you should start doing it now. Mobile-friendliness is one of the most important ranking factors in Google, and can play an essential role in your company’s digital marketing.',
     },
   ],
   display: true, // Set false to hide this section, defaults to true
+ 
 };
 
 // Talks Sections
