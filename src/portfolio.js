@@ -15,7 +15,7 @@ const greeting = {
     'A highly driven individual looking for a challenging position in an organization specializing in tech which will be the impetus to my professional and personal prosperity and will play to my strengths.'
   ),
   resumeLink:
-    'https://drive.google.com/file/d/1o4LotuuwM6URVb3zAM8Cfh3e4FUtApO3/view',
+    'https://drive.google.com/file/d/1GxrmdVXzcn-zfZypfJHNWJwtU-YJ2OZI/view',
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
