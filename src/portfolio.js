@@ -276,7 +276,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: '30b82bc3a57f11dbea4923e48b2447fd393328e8',
+  githubConvertedToken: 'fc2fa46a08b48c8e2d430f8ae50380c1d25f9630',
   
   githubUserName: 'narayandasnitol', // Change to your github username to view your profile in Contact Section.
   showGithubProfile: 'true', // Set true or false to show Contact profile using Github, defaults to true
