@@ -15,7 +15,7 @@ const greeting = {
     'A highly driven individual looking for a challenging position in an organization specializing in tech which will be the impetus to my professional and personal prosperity and will play to my strengths.'
   ),
   resumeLink:
-    'https://drive.google.com/file/d/1M7A7HmQrTKIJ0UBJU202RCwXxAxrJH04/view?usp=sharing',
+    'https://drive.google.com/file/d/1o4LotuuwM6URVb3zAM8Cfh3e4FUtApO3/view?usp=sharing',
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -121,7 +121,7 @@ const educationInfo = {
       duration: 'November 2015 - January 2020',
       desc: 'CGPA : 3.23 / 4.00',
       descBullets: [
-        'Thesis : Decision Tree Induction in Heart Disease Prediction'
+        'Thesis : Decision Tree Induction for Heart Disease Prediction'
       ],
     },
     {
