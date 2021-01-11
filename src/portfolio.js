@@ -40,7 +40,7 @@ const skillsSection = {
     emoji(
       '⚡ Academic experience in Mobile App Development, Web Design, Web Development and Database Management System.'
     ),
-    emoji('⚡ Completed more than 10+ academic projects.'),
+    emoji('⚡ 6+ Academic projects.'),
     emoji(
       '⚡ Self-motivated individual with exceptional communication and interpersonal skills.'
     ),
