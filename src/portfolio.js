@@ -15,7 +15,7 @@ const greeting = {
     'A highly driven individual looking for a challenging position in an organization specializing in tech which will be the impetus to my professional and personal prosperity and will play to my strengths.'
   ),
   resumeLink:
-    'https://drive.google.com/file/d/1o4LotuuwM6URVb3zAM8Cfh3e4FUtApO3/view?usp=sharing',
+    'https://drive.google.com/file/d/1o4LotuuwM6URVb3zAM8Cfh3e4FUtApO3/view',
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -276,7 +276,8 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
+  githubConvertedToken: '30b82bc3a57f11dbea4923e48b2447fd393328e8',
+  
   githubUserName: 'narayandasnitol', // Change to your github username to view your profile in Contact Section.
   showGithubProfile: 'true', // Set true or false to show Contact profile using Github, defaults to true
   display: true, // Set false to hide this section, defaults to true
