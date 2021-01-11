@@ -285,29 +285,14 @@ const openSource = {
 // projects source code you have worked on
 
 const bigProjects = {
-  title: 'Github',
-  subtitle: 'Source Code of my projects are given below: ',
+  title: '',
+  subtitle: '',
   projects: [
     {
-      image: require('./assets/images/Duck.png'),
-      link: 'https://github.com/narayandasnitol/Shoot-The-Duck',
+     // image: require(''),
+      link: '',
     },
-    {
-      image: require('./assets/images/AustClassManager1.png'),
-      link: 'https://github.com/narayandasnitol/Aust-Class-Manager',
-    },
-    {
-      image: require('./assets/images/AustCgpa1.png'),
-      link: 'https://github.com/narayandasnitol/CGPA-Calculator',
-    },
-    {
-      image: require('./assets/images/AustBus.png'),
-      link: 'https://github.com/narayandasnitol/Bus-Ticket-Reservation-Manager',
-    },
-    {
-      image: require('./assets/images/AustCar.png'),
-      link: 'https://github.com/narayandasnitol/Car-Rent-Sell',
-    },
+    
   ],
   display: false, // Set false to hide this section, defaults to true
 };
@@ -324,7 +309,7 @@ const achievementSection = {
       title: '',
       subtitle:
         '',
-      // image: require('./assets/images/xyz.jpg'),
+      // image: require(''),
       footerLink: [
         {
           name: '',
